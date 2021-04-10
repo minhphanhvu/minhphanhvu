@@ -59,7 +59,6 @@
 
 ---
 
-<!-- [website]: https://codeSTACKr.com -->
 [linkedin]: https://www.linkedin.com/in/minh-vu-954223112/
 [tutorialBook1]: https://www.learnenough.com/ruby-on-rails-6th-edition-tutorial
 [tutorialBook2]: https://www.learnenough.com/course/learn_enough_action_cable/frontmatter
@@ -69,6 +68,8 @@
 
 <details>
   <summary>Recent finished GitHub projects</summary>
-  1. 🎉 [Action Cable](https://railschatroom.herokuapp.com/). [GitHub](https://github.com/minhphanhvu/action_cable_chat_app)
-  2. 👑 Twitter-like Toy App. [GitHub](https://github.com/minhphanhvu/sample_app)
+  
+1. 🎉 [Action Cable](https://railschatroom.herokuapp.com/). [GitHub](https://github.com/minhphanhvu/action_cable_chat_app)
+2. 👑 Twitter-like Toy App. [GitHub](https://github.com/minhphanhvu/sample_app)
+
 </details>
