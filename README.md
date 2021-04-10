@@ -43,6 +43,10 @@
 
 <br />
 
+### Favorite Website:
+
+1. ♦️ [RubyTappas](https://www.rubytapas.com/)
+2. 🔺 [GoRails](https://gorails.com/dashboard) 
 ---
 
 ### 📕 My blog coming soon...
