@@ -54,3 +54,6 @@
 
 [website]: https://codeSTACKr.com
 [linkedin]: https://www.linkedin.com/in/minh-vu-954223112/
+
+### Certificates
+<a href="https://www.learnenough.com/certificates/7ff2d12a"><img src="https://www.learnenough.com/certificates/7ff2d12a/action-cable-tutorial.svg" alt="Certificate of Completion for Learn Enough Action Cable"></a>
