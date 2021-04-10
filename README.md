@@ -4,9 +4,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 ### Hi there, I'm Minh
 
-## I'm a Blogger, Files Designer, and Developer
+## I'm a Blogger, Files Designer, and Full-stack Developer
 
-- 🔭 I'm currently enrolling in online Launc School
+- 🔭 I'm currently enrolling in online Launch School
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals:
   1. Finish Launch School curriculum
