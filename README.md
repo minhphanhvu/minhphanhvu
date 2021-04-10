@@ -39,6 +39,7 @@
 
 [Ruby on Rails Tutorial](https://www.learnenough.com/ruby-on-rails-6th-edition-tutorial)[<img align="left" alt="Ruby on Rails Tutorial" width="25px" src="https://softcover.s3.amazonaws.com/636/ruby_on_rails_tutorial_6th_edition/images/cover-web.png" />][tutorialBook1]
 
+
 [Learn Enough Action Cable](https://www.learnenough.com/course/learn_enough_action_cable/frontmatter)[<img align="left" alt="Ruby on Rails Tutorial" width="25px" src="https://softcover.s3.amazonaws.com/636/learn_enough_action_cable/images/cover-web.png" />][tutorialBook2]
 
 <br />
@@ -47,16 +48,7 @@
 
 ### 📕 My blog coming soon...
 
-<!-- BLOG-POST-LIST:START -->
-<!-- - [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65) -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- ➡️ [more blog posts...](https://codestackr.com) -->
-
+<!-- INSERT BLOG LIST HERE -->
 ---
 
 [linkedin]: https://www.linkedin.com/in/minh-vu-954223112/
