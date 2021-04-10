@@ -56,4 +56,4 @@
 [linkedin]: https://www.linkedin.com/in/minh-vu-954223112/
 
 ### Certificates
-<a href="https://www.learnenough.com/certificates/7ff2d12a"><img src="https://www.learnenough.com/certificates/minhphanhvu/action-cable-tutorial.svg" alt="Certificate of Completion for Learn Enough Action Cable"></a>
+<a href="https://www.learnenough.com/certificates/minhphanhvu"><img src="https://www.learnenough.com/certificates/minhphanhvu/action-cable-tutorial.svg" alt="Certificate of Completion for Learn Enough Action Cable"></a>
