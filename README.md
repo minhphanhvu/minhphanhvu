@@ -68,7 +68,7 @@
 <a href="https://www.learnenough.com/certificates/minhphanhvu"><img src="https://www.learnenough.com/certificates/minhphanhvu/action-cable-tutorial.svg" alt="Certificate of Completion for Learn Enough Action Cable"></a>
 
 <details>
-  <summary>## Recent finished GitHub projects</summary>
+  <summary>Recent finished GitHub projects</summary>
   1. 🎉 [Action Cable](https://railschatroom.herokuapp.com/). [GitHub](https://github.com/minhphanhvu/action_cable_chat_app)
   2. 👑 Twitter-like Toy App. [GitHub](https://github.com/minhphanhvu/sample_app)
 </details>
