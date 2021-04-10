@@ -9,7 +9,7 @@
 - 🔭 I'm currently enrolling in online Launch School
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals:
-  1. Finish Launch School curriculum
+  1. Finish Launch School core curriculum
   2. Learn [React](https://fullstackopen.com/en/)
 - ⚡ 2021 Project: 
   1. Sinatra Schedule Spot App for Launch School students (postponed)
