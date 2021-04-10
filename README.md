@@ -41,7 +41,6 @@
 
 [Learn Enough Action Cable](https://www.learnenough.com/course/learn_enough_action_cable/frontmatter)[<img align="left" alt="Ruby on Rails Tutorial" width="25px" height="25px" src="https://softcover.s3.amazonaws.com/636/learn_enough_action_cable/images/cover-web.png" />][tutorialBook2]
 
-<br />
 
 ### Favorite Website:
 
