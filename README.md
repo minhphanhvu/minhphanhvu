@@ -36,9 +36,11 @@
 <br />
 
 ### Books:
+
 [<img align="left" alt="Ruby on Rails Tutorial" width="25px" src="https://softcover.s3.amazonaws.com/636/ruby_on_rails_tutorial_6th_edition/images/cover-web.png" />][tutorialBook1]
 [<img align="left" alt="Ruby on Rails Tutorial" width="25px" src="https://softcover.s3.amazonaws.com/636/learn_enough_action_cable/images/cover-web.png" />][tutorialBook2]
 
+<br />
 ---
 
 ### 📕 My blog coming soon...
