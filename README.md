@@ -8,8 +8,11 @@
 
 - 🔭 I'm currently enrolling in online Launc School
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Finish Launch School curriculum
-- ⚡ 2021 Project: Sinatra Schedule Spot App for Launch School students (postponed)
+- 🥅 2021 Goals:
+  1. Finish Launch School curriculum
+  2. Learn [React](https://fullstackopen.com/en/)
+- ⚡ 2021 Project: 
+  1. Sinatra Schedule Spot App for Launch School students (postponed)
 
 ### Connect with me:
 
@@ -24,15 +27,17 @@
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Rails" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+### Books:
+[<img align="left" alt="Ruby on Rails Tutorial" width="25px" src="https://softcover.s3.amazonaws.com/636/ruby_on_rails_tutorial_6th_edition/images/cover-web.png" />][tutorialBook1]
+[<img align="left" alt="Ruby on Rails Tutorial" width="25px" src="https://softcover.s3.amazonaws.com/636/learn_enough_action_cable/images/cover-web.png" />][tutorialBook2]
 
 ---
 
@@ -52,6 +57,8 @@
 
 <!-- [website]: https://codeSTACKr.com -->
 [linkedin]: https://www.linkedin.com/in/minh-vu-954223112/
+[tutorialBook1]: https://www.learnenough.com/ruby-on-rails-6th-edition-tutorial
+[tutorialBook2]: https://www.learnenough.com/course/learn_enough_action_cable/frontmatter
 
 ### Certificates
 <a href="https://www.learnenough.com/certificates/minhphanhvu"><img src="https://www.learnenough.com/certificates/minhphanhvu/action-cable-tutorial.svg" alt="Certificate of Completion for Learn Enough Action Cable"></a>
