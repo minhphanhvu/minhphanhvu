@@ -66,5 +66,5 @@
   
 1. 🎉 [Action Cable](https://railschatroom.herokuapp.com/). [GitHub](https://github.com/minhphanhvu/action_cable_chat_app)
 2. 👑 Twitter-like Toy App. [GitHub](https://github.com/minhphanhvu/sample_app)
-3. 📑 [Simple phonebook written in Node and React](https://finnsphonebook.herokuapp.com/) [GitHub](https://github.com/minhphanhvu/full_stack_open/tree/main/part3/phonebook)
+3. 📑 [Simple phonebook written in Node and React](https://finnsphonebook.herokuapp.com/). [GitHub](https://github.com/minhphanhvu/full_stack_open/tree/main/part3/phonebook)
 </details>
