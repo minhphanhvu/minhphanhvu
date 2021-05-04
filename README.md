@@ -59,7 +59,7 @@
 [tutorialBook2]: https://www.learnenough.com/course/learn_enough_action_cable/frontmatter
 
 ### Certificates
-<a href="https://www.learnenough.com/certificates/minhphanhvu"><img src="https://www.learnenough.com/certificates/minhphanhvu/ruby-on-rails-6th-edition-tutorial.svg" alt="Certificate of Completion for The Ruby on Rails Tutorial, 6th Ed."></a><a href="https://www.learnenough.com/certificates/minhphanhvu"><img src="https://www.learnenough.com/certificates/minhphanhvu/action-cable-tutorial.svg" alt="Certificate of Completion for Learn Enough Action Cable">
+<a href="https://www.learnenough.com/certificates/minhphanhvu"><img src="https://www.learnenough.com/certificates/minhphanhvu/ruby-on-rails-6th-edition-tutorial.svg" alt="Certificate of Completion for The Ruby on Rails Tutorial, 6th Ed."></a><a href="https://www.learnenough.com/certificates/minhphanhvu"><img src="https://www.learnenough.com/certificates/minhphanhvu/action-cable-tutorial.svg" alt="Certificate of Completion for Learn Enough Action Cable"></a>
 
 <details>
   <summary>Full Stack Open 2021 University of Helsinki Finnland</summary>
