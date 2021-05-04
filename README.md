@@ -59,8 +59,13 @@
 [tutorialBook2]: https://www.learnenough.com/course/learn_enough_action_cable/frontmatter
 
 ### Certificates
-<a href="https://www.learnenough.com/certificates/minhphanhvu"><img src="https://www.learnenough.com/certificates/minhphanhvu/ruby-on-rails-6th-edition-tutorial.svg" alt="Certificate of Completion for The Ruby on Rails Tutorial, 6th Ed."></a><a href="https://www.learnenough.com/certificates/minhphanhvu"><img src="https://www.learnenough.com/certificates/minhphanhvu/action-cable-tutorial.svg" alt="Certificate of Completion for Learn Enough Action Cable"></a><a><img alt="Helsinki full stack open certificate" src="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7c7276846384d21564266145ff22118c" width="100" height="
-100"></a>
+<a href="https://www.learnenough.com/certificates/minhphanhvu"><img src="https://www.learnenough.com/certificates/minhphanhvu/ruby-on-rails-6th-edition-tutorial.svg" alt="Certificate of Completion for The Ruby on Rails Tutorial, 6th Ed."></a><a href="https://www.learnenough.com/certificates/minhphanhvu"><img src="https://www.learnenough.com/certificates/minhphanhvu/action-cable-tutorial.svg" alt="Certificate of Completion for Learn Enough Action Cable">
+
+<details>
+  <summary>Full Stack Open 2021 University of Helsinki Finnland</summary>
+  </a><a><img alt="Helsinki full stack open certificate" src="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7c7276846384d21564266145ff22118c" width="250" height="
+250"></a>
+ </details>
 
 <details>
   <summary>Recent finished GitHub projects</summary>
