@@ -66,7 +66,7 @@
 <details>
   <summary>Full Stack Open 2021 University of Helsinki Finnland Certificate</summary>
  
-  </a><img alt="Helsinki full stack open certificate" src=""></a>
+  </a><img alt="Helsinki full stack open certificate" src="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7c7276846384d21564266145ff22118c" /></a>
 </details>
 
 <details>
