@@ -64,9 +64,8 @@
 <a href="https://www.learnenough.com/certificates/minhphanhvu"><img src="https://www.learnenough.com/certificates/minhphanhvu/ruby-on-rails-6th-edition-tutorial.svg" alt="Certificate of Completion for The Ruby on Rails Tutorial, 6th Ed."></a><a href="https://www.learnenough.com/certificates/minhphanhvu"><img src="https://www.learnenough.com/certificates/minhphanhvu/action-cable-tutorial.svg" alt="Certificate of Completion for Learn Enough Action Cable"></a>
 
 <details>
-  <summary>Full Stack Open 2021 University of Helsinki Finnland Certificate</summary>
-  [GitHub](https://github.com/minhphanhvu/full_stack_open)
- 
+  <summary>Full Stack Open 2021 University of Helsinki Finnland Certificate https://github.com/minhphanhvu/full_stack_open</summary>
+
   </a><img alt="Helsinki full stack open certificate" src="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7c7276846384d21564266145ff22118c" /></a>
 </details>
 
