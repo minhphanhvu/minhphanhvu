@@ -13,6 +13,7 @@
   2. Learn [React](https://fullstackopen.com/en/)
 - ⚡ 2021 Project: 
   1. Sinatra Schedule Spot App for Launch School students (postponed)
+- 🥇 Finished Projects: please check at the end of the profile
 
 ### Connect with me:
 
