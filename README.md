@@ -11,7 +11,6 @@
 - 🥅 2021 Goals:
   1. Finish Launch School core curriculum
   2. Learn [React](https://fullstackopen.com/en/)
-  3. Practice [algorithm](https://www.newline.co/javascript-algorithms)
 - ⚡ 2021 Project: 
   1. Sinatra Schedule Spot App for Launch School students (postponed)
 
