@@ -4,16 +4,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 ### Hi there, I'm Minh
 
-## I'm a Blogger, Files Designer, and Full-stack Developer
+## I'm a Software Engineer.
 
-- 🔭 I'm currently enrolling in online Launch School
+- 🔭 I've finished[Launch School Capstone program](https://launchschool.com/capstone)
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals:
-  1. Finish Launch School core curriculum
-  2. Learn [React](https://fullstackopen.com/en/)
-- ⚡ 2021 Project: 
-  1. Sinatra Schedule Spot App for Launch School students (postponed)
-- 🥇 Finished Projects: please check at the end of the profile
 
 ### Connect with me:
 
@@ -50,11 +44,7 @@
 
 1. ♦️ [RubyTappas](https://www.rubytapas.com/)
 2. 🔺 [GoRails](https://gorails.com/dashboard) 
----
 
-### 📕 My blog coming soon...
-
-<!-- INSERT BLOG LIST HERE -->
 ---
 
 [linkedin]: https://www.linkedin.com/in/minh-vu-954223112/
@@ -71,9 +61,11 @@
 </details>
 
 <details>
-  <summary>Recent finished GitHub projects</summary>
+  <summary>Other finished GitHub projects</summary>
   
-1. 🎉 [Action Cable](https://railschatroom.herokuapp.com/). [GitHub](https://github.com/minhphanhvu/action_cable_chat_app)
-2. 👑 [Twitter-like Toy App](https://finnssampleapp.herokuapp.com/). [GitHub](https://github.com/minhphanhvu/sample_app)
-3. 📑 [Simple phonebook written in Node and React](https://finnsphonebook.herokuapp.com/). [GitHub](https://github.com/minhphanhvu/full_stack_open/tree/main/part3/phonebook)
+1. 🕸️ [RequestIt](https://finnvu.com/requestbin). [GitHub](https://github.com/minhphanhvu/request_bin)
+2. 📱  [PostIt](https://finnspostit.herokuapp.com/). [GitHub](https://github.com/minhphanhvu/postit)
+2. 🎉 [Action Cable](https://railschatroom.herokuapp.com/). [GitHub](https://github.com/minhphanhvu/action_cable_chat_app)
+3. 👑 [Twitter-like Toy App](https://finnssampleapp.herokuapp.com/). [GitHub](https://github.com/minhphanhvu/sample_app)
+4. 📑 [Simple phonebook written in Node and React](https://finnsphonebook.herokuapp.com/). [GitHub](https://github.com/minhphanhvu/full_stack_open/tree/main/part3/phonebook)
 </details>
