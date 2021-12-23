@@ -4,10 +4,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 ### Hi there, I'm Minh
 
-## I'm a Software Engineer.
+## I'm a Software Engineer based in Chicago, IL.
 
-- 🔭 I've finished[Launch School Capstone program](https://launchschool.com/capstone)
-- 👯 I’m looking to collaborate with other developers
+- 🥇I recently built Monsoon. Monsoon is an open-source, serverless framework for running browser-based load tests in the cloud.
+- 🔭 I've finished [Launch School Capstone program](https://launchschool.com/capstone).
+- 👯 I’m looking to collaborate with other developers.
 
 ### Connect with me:
 
@@ -17,6 +18,7 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
