@@ -6,7 +6,7 @@
 
 ## I'm a Software Engineer based in Chicago, IL.
 
-- 🥇I recently built Monsoon. Monsoon is an open-source, serverless framework for running browser-based load tests in the cloud.
+- 🥇I recently built [Monsoon] (https://github.com/monsoon-load-testing/monsoon). Monsoon is an open-source, serverless framework for running browser-based load tests in the cloud.
 - 🔭 I've finished [Launch School Capstone program](https://launchschool.com/capstone).
 - 👯 I’m looking to collaborate with other developers.
 
